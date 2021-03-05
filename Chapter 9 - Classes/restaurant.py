@@ -1,3 +1,5 @@
+# A module to be imported by another py file
+
 class Restaurant:
     """A class to represent a restaurant"""
     def __init__(self, restaurant_name, cuisine_type):
